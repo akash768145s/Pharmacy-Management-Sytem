@@ -1,0 +1,2 @@
+# Pharmacy-Management-System
+ The Integrated Pharmacy Management System (IPMS) is a comprehensive software solution designed to streamline and enhance the operations of pharmacies, ensuring efficient management of various tasks and providing improved patient care. This system integrates key functionalities and data, creating a unified platform that simplifies workflows for pharmacists, healthcare providers, and patients.
